@@ -7,5 +7,10 @@ public class Demo {
 		System.out.println("hello github");
 		System.out.println("welcome in github");
 	}
+	
+	public void m1()
+	{
+		System.out.println("m1-method");
+	}
 
 }
